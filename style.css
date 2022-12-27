@@ -1,0 +1,29 @@
+body {
+    background-color: #E9ECEF;
+    text-align: center;
+    list-style-position: inside;
+    font-family: sans-serif;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+h4 {
+    color: rgb(183, 121, 5);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #d4d4d4;
+}
+
+.products {
+    background-color: #fff;
+    padding: 15px 15px;
+}
+
+.card-text {
+    width: 900px;
+    margin: auto;
+    text-align: left;
+}
